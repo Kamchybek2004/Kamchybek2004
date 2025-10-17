@@ -9,4 +9,5 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Email: kamchy2501@gmail.com<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LinkedIn: www.linkedin.com/in/kamchy-абдыжалилов-38506838b<br/>
 
-Experience with the following tech stacks: Django, Flask, JavaScript, PostgreSQL, Bootstrap.
+Experience with the following tech stacks: ![Django](https://img.shields.io/pypi/pyversions/:packageName
+), Flask, JavaScript, PostgreSQL, Bootstrap.
