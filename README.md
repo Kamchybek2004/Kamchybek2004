@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Kamchybek
+## Hi, I'm Kamchybek 👋
 
 ## About me:
 
