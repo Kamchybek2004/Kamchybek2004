@@ -1,13 +1,20 @@
-👋 Hi, I'm Kamchybek
+## 👋 Hi, I'm Kamchybek
+
+## About me:
 
 💻 I’m passionate about web development and currently a beginner in this field. My main programming language is Python.<br/>
 🏗️ I focus on application architecture, performance, and security.<br/>
 📚 I’m dedicated to learning new technologies and always strive for clean, maintainable code.<br/>
 🤝 Open to collaboration and participation in interesting projects.<br/>
 
-📬 Contact me:<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Email: kamchy2501@gmail.com<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+## Follow me:
+![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram&logoColor=B4068E)
+![Telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)
+
+## 📬 Email:
+[![Gmail](https://img.shields.io/static/v1?label=gmail&message=kamchy2501@gmail.com&color=red&style=for-the-badge&logo=gmail&logoColor=white)](mailto:kamchy2501@gmail.com)
+
+
 
 Experience with the following tech stacks:
 
