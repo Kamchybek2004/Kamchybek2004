@@ -7,10 +7,11 @@
 
 📬 Contact me:<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Email: kamchy2501@gmail.com<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LinkedIn: www.linkedin.com/in/kamchy-абдыжалилов-38506838b<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 
 Experience with the following tech stacks:
 
+![Python](https://img.shields.io/badge/-python-ffffff?style=for-the-badge&logo=python)
 ![Django](https://img.shields.io/badge/-Djangо-0C4B33?style=for-the-badge&logo=django)
 ![Flask](https://img.shields.io/badge/-Flask-ffffff?style=for-the-badge&logo=flask)
 ![Postgresql](https://img.shields.io/badge/-Postgresql-50b0f0?style=for-the-badge&logo=postgresql&logoColor=ffffff)
