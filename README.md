@@ -1,4 +1,4 @@
-## Hi, I'm Kamchybek 👋
+## Python Developer
 
 ## About me:
 
